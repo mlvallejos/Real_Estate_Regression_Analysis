@@ -1,6 +1,5 @@
 # REAL ESTATE REGRESSION ANALYSIS
 
-
 The research presented aims to understand housing market trends in King County, Seattle (USA) using SQL, Tableau and Python to analyze data obtained from Kaggle (https://www.kaggle.com/datasets/harlfoxem/housesalesprediction), which includes 21 variables and 21596 observations:
  
 - id
@@ -25,6 +24,7 @@ The research presented aims to understand housing market trends in King County, 
 - sqft_lot15
 - price
 
+TABLEAU LINK: https://public.tableau.com/views/RealEstateRegressionAnalysis/RealEstateRegressionAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## 1.	UNDERSTANDING THE DATABASE WITH SQL
 As a first approximation the database was studied using MySQL. A first look at the imported data shown the following:
